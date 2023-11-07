@@ -1,15 +1,15 @@
-<div class='tableauPlaceholder' id='viz1699331183970' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1699331346533' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='House Price And Income : Deviation Rate Historical' src='https://public.tableau.com/static/images/We/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical/1_rss.png' style='border: none' />
+      <img alt='House Price And Income : Deviation Rate Historical' src='https://public.tableau.com/static/images/D8/D8Z4QPHS3/1_rss.png' style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
-    <param name='path' value='views/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical?:language=zh-CN&:embed=true&publish=yes' />
+    <param name='path' value='shared/D8Z4QPHS3' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/We/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical/1.png' />
+    <param name='static_image' value='https://public.tableau.com/static/images/D8/D8Z4QPHS3/1.png' />
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -21,7 +21,7 @@
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1699331183970');
+  var divElement = document.getElementById('viz1699331346533');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if (divElement.offsetWidth) {
     vizElement.style.width='100%';
