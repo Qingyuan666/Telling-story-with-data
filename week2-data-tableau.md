@@ -1,34 +1,33 @@
-<div class="tableauPlaceholder" id="viz1699330527804" style="position: relative">
-    <noscript>
-        <a href="#">
-            <img alt="House Price And Income: Deviation Rate Historical" src="https://public.tableau.com/static/images/X5/X5M2SWNN8/1_rss.png" style="border: none" />
-        </a>
-    </noscript>
-    <object class="tableauViz" style="display:none;">
-        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-        <param name="embed_code_version" value="3" />
-        <param name="path" value="shared/X5M2SWNN8" />
-        <param name="toolbar" value="yes" />
-        <param name="static_image" value="https://public.tableau.com/static/images/X5/X5M2SWNN8/1.png" />
-        <param name="animate_transition" value="yes" />
-        <param name="display_static_image" value="yes" />
-        <param name="display_spinner" value="yes" />
-        <param name="display_overlay" value="yes" />
-        <param name="display_count" value="yes" />
-        <param name="language" value="zh-CN" />
-        <param name="filter" value="publish=yes" />
-    </object>
+<div class='tableauPlaceholder' id='viz1699331183970' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='House Price And Income : Deviation Rate Historical' src='https://public.tableau.com/static/images/We/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='path' value='views/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical?:language=zh-CN&:embed=true&publish=yes' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/We/Week2-datamap/HousePriceAndIncomeDeviationRateHistorical/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
+    <param name='filter' value='publish=yes' />
+  </object>
 </div>
 
-<script type="text/javascript">
-    var divElement = document.getElementById('viz1699330527804');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    if (divElement.offsetWidth) {
-        vizElement.style.width='100%';
-        vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-    }
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1699331183970');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth) {
+    vizElement.style.width='100%';
+    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  }
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
