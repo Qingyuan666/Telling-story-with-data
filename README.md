@@ -125,4 +125,41 @@ Why part 3 way:
 2. Dividing the different locations into separate cells weakens the comparison among different locations from both overall and certain time points. So I retain the hot map's color transforming of values. Seeing locations' lines' general color distribution prone to blue or orange can tell the general ratio's distribution range, high or low. Scrolling from up to down, also unfold the ratio contrast at the same time.
 3. Based on our audience demands, checking the tendency and changing of one location's debt-to-GDP ratio must be important for analyzing the economic and government financial operation of a country. In this way, using lines rather than just number is vital for the visualization. I also test the way of putting all locations' lines in the same chart. Unfortunately, it will make so many collapse that confuse the user to distinguish which line is which location. Thus, at last, I choose this separate way.
    
+# Assignment 3&4
+
+Final Data Visualization:
+<div class='tableauPlaceholder' id='viz1700023567086'>
+    <noscript>
+        <a href='#'>
+            <img alt='How does the Greenhouse Gas Change in past 40 years? Radiative forcing, relative to 1750, of virtually all long-lived greenhouse gases. The NOAA Annual Greenhouse Gas Index (AGGI), which is indexed to 1 for the year 1990.' 
+                 src='https://public.tableau.com/static/images/As/Assignment34_17000235375810/1/1_rss.png' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='Assignment34_17000235375810/1' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/As/Assignment34_17000235375810/1/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='zh-CN' />
+        <param name='filter' value='publish=yes' />
+    </object>
+</div>
+
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1700023567086');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
