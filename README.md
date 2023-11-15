@@ -127,6 +127,22 @@ Why part 3 way:
    
 # Assignment 3&4
 
+Original Data :
+https://gml.noaa.gov/aggi/aggi.html
+I Mainly redesign the firgure 3 chart 
+
+
+
+
+<img width="990" alt="截屏2023-11-15 上午2 09 16" src="https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/6409a5e8-fe8f-4f38-a656-2e44c7be6ae4">
+
+
+
+
+
+
+
+
 Final Data Visualization:
 <div class='tableauPlaceholder' id='viz1700023567086'>
     <noscript>
