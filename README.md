@@ -129,6 +129,3 @@ Why part 3 way:
 https://qingyuan666.github.io/Telling-story-with-data/Assignment%203%20&%204
 
 
-
-e of the chart and made the title of the chart telling very simple and concise things to help the user quickly know what is the chart generally about. It is for intuitiveness and perceptibility. 
-
