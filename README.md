@@ -148,13 +148,13 @@ Therefore, for redesign sketching, I plan to change the cumulative color area ch
 ![sketch](https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/2ee6b9d7-ba50-41a6-883a-5ac94b08ee44)
 
 
-The handwriting sketch cannot truly show all 40+ years and all concrete tags, marks, and interactive effects on every bar, but I express the core meanings of what I want to do in redesign and show the picture to my teammates with language explanation. 
-They understood, and gave me the advice as follows. 
+The handwriting sketch cannot truly show all 40+ years and all concrete tags, marks, and interactive effects on every bar, but I express the core meanings of what I want to do in the redesign and show the picture to my teammates with language explanation. 
+They understood and gave me the advice as follows. 
 
 Solution Test:
 1. No title and text explanation of the two metrics in y-axises;
 2. The radiative forcing value for all greenhouse gases may be more important than the aggi so the high and low position of the two parts should be converted.
-3. If as I think, giving line at the frontier of each of the gas' bar area. The visual effect will be very dense specially I put all gas types on in the final version and the frontier of bars can show the changing tendency along the past years. So I should eliminate the line of each types just remain that one of total.
+3. If as I think, giving line at the frontier of each of the gas' bar area. The visual effect will be very dense especially I put all gas types on in the final version and the frontier of bars can show the changing tendency along the past years. So I should eliminate the line of each types just remain that one of total.
 
 
 Final Data Visualization:
