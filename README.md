@@ -130,14 +130,24 @@ Why part 3 way:
 Original Data :
 https://gml.noaa.gov/aggi/aggi.html
 I Mainly redesign the firgure 3 chart 
-
-
-
-
 <img width="990" alt="截屏2023-11-15 上午2 09 16" src="https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/6409a5e8-fe8f-4f38-a656-2e44c7be6ae4">
 
 
+Original data visualization critique:
+In this part, I first read the questions in Google form and took them to understand the original data visualization. 
 
+
+Redesign Sketch
+Based on what I find in the critique part, I conclude the main problems of the original visualization are:
+1. non-interactive causing no concrete data information given by chart;
+2. not easily figure out the two y-axis means in the same chart and the possible data tortuosity when matching the two y-axises in one chart.
+3. Cannot quickly get to know what the radiative forcing value and the AGGI value means just seeing the chart.
+Therefore, for redesign sketching, I plan to change the cumulative color area chart into an interactive, cumulative bar chart providing all data points of all years along all greenhouse gases and shown the obviouse contrast between total and each type of gas. Simultaneously, I want to divide the aggi and the radiative forcing value into two charts.
+
+![sketch](https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/2ee6b9d7-ba50-41a6-883a-5ac94b08ee44)
+
+
+ 
 
 
 
