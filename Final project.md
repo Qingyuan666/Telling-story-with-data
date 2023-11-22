@@ -3,6 +3,10 @@
 
 # data source: 
 https://www.education.pa.gov/DataAndReporting/Graduates/Pages/default.aspx
+In the dataset, it gives all counties in PA‘s public schools many metrics about the postsecondary education like graduate number, college number, non-degree number, and so on. 
+I will use the data to present the students next eduction type proportion of PA and this situation compared among different counties. 
+
+
 
 # Outline
 Summary: This project is trying to describe the high school graduates' post-education situation after high school in different counties in Pennsylvania in 2021-2022. The data storytelling will cover the entire post-high school education statistical performance of all the public high schools. 
@@ -85,5 +89,16 @@ Each County Data
 
 
 Interactive Map
+In this part, I find there are some difficulties in drawing data map at the county level in Tableau. I need to research on it in the future so I just draw handwriting sketches now
+<img width="452" alt="截屏2023-11-22 上午2 58 38" src="https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/e86697a0-d3bb-4d56-93e7-d2260582ceaa">
+
+# Method and medium
+Platform: 
+Mainly Tableau + Online data map tools: Google map, and Datawrapper to solve the county-level data presentation. 
+
+Improvement points:
+1. more clear shown of the each education type's name in the chart;
+2. subdivide all counties into high, medium and low college rate, three groups, to show the data structure of counties within each group.
+3. Figure out some emphasis at the dense and complex data map of all counties.  
 
 
