@@ -1,5 +1,4 @@
-# Final Project'
-# Part 1 
+# Final Project-Part 1 
 
 # data source: 
 https://www.education.pa.gov/DataAndReporting/Graduates/Pages/default.aspx
@@ -90,6 +89,8 @@ Each County Data
 
 Interactive Map
 In this part, I find there are some difficulties in drawing data map at the county level in Tableau. I need to research on it in the future so I just draw handwriting sketches now
+
+
 <img width="452" alt="截屏2023-11-22 上午2 58 38" src="https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/e86697a0-d3bb-4d56-93e7-d2260582ceaa">
 
 # Method and medium
