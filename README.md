@@ -131,3 +131,6 @@ https://qingyuan666.github.io/Telling-story-with-data/Assignment%203%20&%204
 
 # Final Project 
 https://qingyuan666.github.io/Telling-story-with-data/Final%20project
+
+# Final Project Part 2
+
