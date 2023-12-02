@@ -3,6 +3,9 @@ https://gamma.app/public/Data-Story-io82b8osmjbk9jc
 
 <iframe src="https://gamma.app/embed/io82b8osmjbk9jc" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Data Story"></iframe>
 
+# statement: the Gamma is an AI platform but I do not use AI to generate the visual design. The all things are done by me. It is just an publishing platform. 
+
+
 # User Research 
 Research Goal:
 1. get to know whether the user can perceive the information quickly and easily;
