@@ -1,9 +1,9 @@
 # Final Project Part 3 
-[Go Back to Portfolio](https://qingyuan666.github.io/Telling-story-with-data/)
-[Go  to Entire Final Project](https://qingyuan666.github.io/Telling-story-with-data/Final Project (1,2,3))
+[Go Back to Portfolio Homepage](https://qingyuan666.github.io/Telling-story-with-data/)
+[Go to Part 1](https://qingyuan666.github.io/Telling-story-with-data/Final Project part 1)
+[Go to Part 2](https://qingyuan666.github.io/Telling-story-with-data/Final Project Part2)
 
-
-Final project on shorthand  
+# See Final project on shorthand  
 https://qingyuan-zheng.shorthandstories.com/choose-major/index.html
 
 <a href="https://qingyuan-zheng.shorthandstories.com/choose-major/index.html">
