@@ -1,6 +1,9 @@
+|[Homepage](https://qingyuan666.github.io/Telling-story-with-data/)| 
+
+# Welcome to my telling story with data 
+# There are my story works supported by data
+
 # portfolio
-# Welcome to my telling story with data portfolio
-# This is a part of how to present the same data in different ways 
 
 # week 2 discussion exercise 
 <div class='tableauPlaceholder' id='viz1699331346533' style='position: relative'>
