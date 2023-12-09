@@ -1,5 +1,7 @@
 # Final Project Part 3 
-Final project on shorthand  [Go Back to Portfolio](https://qingyuan666.github.io/Telling-story-with-data/)
+[Go Back to Portfolio](https://qingyuan666.github.io/Telling-story-with-data/)
+
+Final project on shorthand  
 https://qingyuan-zheng.shorthandstories.com/choose-major/index.html
 
 <a href="https://qingyuan-zheng.shorthandstories.com/choose-major/index.html">
