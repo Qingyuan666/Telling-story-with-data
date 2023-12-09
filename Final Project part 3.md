@@ -1,6 +1,10 @@
 # Final Project Part 3
-Final project link: 
+Final project on shorthand
 https://qingyuan-zheng.shorthandstories.com/choose-major/index.html
+
+[Click here to visit](https://qingyuan-zheng.shorthandstories.com/choose-major/index.html)
+
+
 
 # Writeup:
 1. Process:
