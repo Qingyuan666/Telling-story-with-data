@@ -1,4 +1,5 @@
-|[Homepage](https://qingyuan666.github.io/Telling-story-with-data/)| 
+|[Homepage](https://qingyuan666.github.io/Telling-story-with-data/)| [Discussion practice] (https://qingyuan666.github.io/Telling-story-with-data/week2-data-tableau) | [Assignment 2](https://qingyuan666.github.io/Telling-story-with-data/assign2_part1) | [Assignment 3&4](https://qingyuan666.github.io/Telling-story-with-data/Assignment%203%20&%204) | [Part 1](https://qingyuan666.github.io/Telling-story-with-data/Final Project part 1)| [Part 2](https://qingyuan666.github.io/Telling-story-with-data/Final Project Part2)| [Part 3](https://qingyuan666.github.io/Telling-story-with-data/Final Project part 3)
+
 
 # Welcome to my telling story with data 
 # There are my story works supported by data
