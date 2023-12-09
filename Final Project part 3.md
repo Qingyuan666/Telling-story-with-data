@@ -1,11 +1,11 @@
-# Final Project Part 3
-Final project on shorthand
+# Final Project Part 3 
+Final project on shorthand  [Go Back to Portfolio](https://qingyuan666.github.io/Telling-story-with-data/)
 https://qingyuan-zheng.shorthandstories.com/choose-major/index.html
 
 <a href="https://qingyuan-zheng.shorthandstories.com/choose-major/index.html">
     <img width="462" alt="截屏2023-12-09 上午2 12 07" src="https://github.com/Qingyuan666/Telling-story-with-data/assets/115184503/d5261b99-30b2-4f56-89fd-5402074469eb">
 </a>
-
+click the image to go
 
 # Writeup:
 1. Process:
@@ -26,5 +26,5 @@ Observation:
 4) The extremely bottom salary major is most related to art.
 5) However, in the top 10 industries with the happiest workers, a wide range of fields appear just with one is about engineering.   
   
-[Go Back to Portfolio](https://qingyuan666.github.io/Telling-story-with-data/)
+
 
